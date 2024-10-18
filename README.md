@@ -44,9 +44,13 @@ In this project, I created a movie recommendation engine using Natural Language 
 For the movie **"Batman Begins"**, the top 5 recommended movies are:
 
 The Dark Knight
+
 The Dark Knight Rises
+
 Batman
+
 Batman & Robin
+
 Batman
 
 
