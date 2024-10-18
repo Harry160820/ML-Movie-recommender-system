@@ -7,12 +7,18 @@ In this project, I created a movie recommendation engine using Natural Language 
 
 ## Key Features:
 -> **Data Cleaning**: Merged two datasets (movies and credits) and handled missing or duplicate data.
+
 -> **Feature Engineering:** Extracted and transformed key movie features such as genres, keywords, cast, crew, and the movie overview.
+
 -> **Text Preprocessing:**
+
 1) Converted the textual data (genres, keywords, etc.) to a simplified format using stemming.
 2) Removed unnecessary spaces and standardized the text for comparison.
+
 -> **Vectorization:** Utilized CountVectorizer to convert the processed text into a matrix of token counts.
+
 -> **Cosine Similarity:** Computed the cosine similarity between movie vectors to find similar movies.
+
 -> **Recommendation System:** Built a function that recommends the top 5 most similar movies based on the input movie's content.
 
 # Dataset:
